@@ -5,9 +5,14 @@
 ### What is this Game?
 
 This is a game about a neighborhood being overrun by monsters and it is your job to help save the neighborhood
+Worked on this in pair programming with Keith Rodgers 
+(Keith^2) productions
 
 
-Using the command Python3 Game.py will run this game!
+Using the command (Python3 Game.py) will run this game! 
 
-Looking to make it an executable later, just ran out of time. 
 
+@author -Keith Schmitt, Keith Rodgers
+
+
+# Thanks for playing
