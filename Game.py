@@ -191,6 +191,7 @@ class Game:
                     print("please enter a correct number corresponding to a monster")
                     
             else:
+                print("Sorry you look around and realize that you can't do that")
 
 
 #main method, tried to find a way to make an executable, but that kind of required the use of another language but running at compile we figured would work
