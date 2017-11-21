@@ -64,7 +64,7 @@ class Game:
             print("Name: " + playerName)
             print("HP: " + str(player.hp))
             print ("location: " + str(location))
-            print ("Monsters in this house: " + str (neighborhood[location[0]][location[1]].monster_count))
+            print ("Monsters in this house: " + str (neighborhood[location[0]-1][location[1]-1].monster_count))
             print("All Monsters left: "+ str(monster_num))
             
 
